@@ -117,7 +117,7 @@ You can select the tunnel type. The two tunnel options are SSTP and IKEv2. The s
 
 ## <a name="authenticationtype"></a>8. Configure authentication type
 
-Select **Azure certificate**.
+Select **Azure Certificate**.
 
   ![Tunnel type](./media/vpn-gateway-howto-point-to-site-resource-manager-portal/authenticationtype.png)
 
